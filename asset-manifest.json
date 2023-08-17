@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MT1405/Ingle.git/static/css/main.073c9b0a.css",
+    "main.js": "/MT1405/Ingle.git/static/js/main.0a24e894.js",
+    "static/js/787.cf6d9b6c.chunk.js": "/MT1405/Ingle.git/static/js/787.cf6d9b6c.chunk.js",
+    "index.html": "/MT1405/Ingle.git/index.html",
+    "main.073c9b0a.css.map": "/MT1405/Ingle.git/static/css/main.073c9b0a.css.map",
+    "main.0a24e894.js.map": "/MT1405/Ingle.git/static/js/main.0a24e894.js.map",
+    "787.cf6d9b6c.chunk.js.map": "/MT1405/Ingle.git/static/js/787.cf6d9b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a24e894.js"
+  ]
+}
